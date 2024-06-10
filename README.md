@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrHighball (Benjamin Dudra)
 - 👀 I’m interested in Coding in Python, C#, and other OOP languages.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#/Java/HTML/CSS/Java Script
 - 💞️ I’m looking to collaborate on School projects
 - 📫 How to reach me: bpdudra@outlook.com, Discord @mrhighball
 
